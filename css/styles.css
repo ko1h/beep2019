@@ -1,6 +1,7 @@
 body {
   background-color: #f5d9d5;
   font-family: 'Nunito', sans-serif;
+  color: white;
 }
 
 #mainNavbar .navbar-brand {
@@ -18,15 +19,6 @@ h1 {
   text-transform: uppercase;
   line-height: 1.3;
   text-shadow: 3px 3px 1px black;
-}
-.main-header {
-  padding-top: 170px;
-  height: 550px;
-  margin-top: -20px;
-  background-size: cover;
-  background-image: url('../img/starwars.jpeg');
-  background-position: center;
-  text-align: center;
 }
 .form-group {
   padding-top: 100px;

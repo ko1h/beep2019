@@ -9,7 +9,7 @@
     <title>Beep Bootstrap</title>
   </head>
   <body>
-    <div class="container">
+    <div class="container-fluid">
       <nav id="mainNavbar" class="navbar navbar-dark navbar-expand-md">
         <a href="#" class="navbar-brand">Robot</a>
         <div class="navbar-header">
@@ -26,22 +26,27 @@
               <a href="" class="nav-link">ABOUT</a>
             </li>
             <li class="nav-item">
-              <a href="" class="nav-link">SHOES</a>
+              <a href="" class="nav-link">BEEP</a>
             </li>
           </ul>
         </div>
       </nav>
-      <header class="main-header">
-       <h1>Beep Boop</h1>
-      </header>
-      <form id="convertor">
-        <div class="form-group">
-          <label for="inputNumber">Enter a number to see the robot respond back to you:</label>
-          <input id="inputNumber" type="text">
+      <div class="row">
+        <div class="col-md-6">
+          <form id="convertor">
+            <div class="form-group">
+              <label for="inputNumber">Enter a number to see the robot respond back to you:</label>
+              <input id="inputNumber" type="text">
+            </div>
+            <button type="submit" class="btn btn-info"><b>Convert!</b></button>
+          </form>
+          <div id="result">
+
+          </div>
         </div>
-        <button type="submit" class="btn btn-info"><b>Convert!</b></button>
-      </form>
-      <div id="result">
+        <div class="col-md-6">
+          <img class="img-fluid" src="img/starwars.jpeg" alt="">
+        </div>
       </div>
     </div>
   </body>
