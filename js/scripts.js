@@ -27,7 +27,6 @@ $(document).ready(function() {
     var inputNum = $("input#inputNumber").val();
     var result = robotSounds(inputNum);
 
-    $("#result").show();
     $("#result").text(result);
   });
 });
