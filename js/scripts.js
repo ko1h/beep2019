@@ -28,6 +28,6 @@ $(document).ready(function() {
     var result = robotSounds(inputNum);
 
     $("#result").show();
-    $("#result").text(result);
+v    $("#result").text(result);
   });
 });
