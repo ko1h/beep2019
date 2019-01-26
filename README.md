@@ -6,23 +6,23 @@
 
 ## Description
 
-_1 Program replaces 0 with Beep_
-_2 input 0 returns beep_
-_3 Program replace 1 with Boop_
-_4 Input 1 returns Boop_
-_5 Program replace any number that is divisible by 3  with "I'm sorry, Dave. I'm afraid I can't do that."_
-_6 Input 3 returns with "I'm sorry, Dave. I'm afraid I can't do that."_
-_7 if the number is great then 0 it will show the whole range of numbers._
-_8 input 5 returns "Beep", "Boop", "I'm sorry, Dave. I'm afraid I can't do that.", 4 ,5._
-
+* _1 Program replaces 0 with Beep_
+* _2 input 0 returns beep_
+* _3 Program replace 1 with Boop_
+* _4 Input 1 returns Boop_
+* _5 Program replace any number that is divisible by 3  with "I'm sorry, Dave. I'm afraid I can't do that."_
+* _6 Input 3 returns with "I'm sorry, Dave. I'm afraid I can't do that."_
+* _7 if the number is great then 0 it will show the whole range of numbers._
+* _8 input 5 returns "Beep", "Boop", "I'm sorry, Dave. I'm afraid I can't do that.", 4 ,5._
+* _https://ko1h.github.io/beep2019/front.html_
 
 ## Setup/Installation Requirements
 
 * _Clone Repository_
-*_github link https://github.com/ko1h/beepboop.git
+* _ github link https://github.com/ko1h/beep2019.git _
 * _Open folder_
 * _Open index.html_
-
+* _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
 
 ## Known Bugs
 
