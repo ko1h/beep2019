@@ -1,24 +1,23 @@
 function robotSounds(inputNum) {
 
-  var arrayResult = [];
+  var soundResult = [];
 
   for (var i = 0; i <= inputNum; i++) {
     if (i % 3 === 0 && i !== 0) {
-      arrayResult.push(" I'm sorry, Dave. I'm afraid I can't do that.");
+      soundResult.push(" I'm sorry, Dave. I'm afraid I can't do that.");
     }
     else if (i.toString().split("").includes("1")) {
-      arrayResult.push(" Boop");
+      soundResult.push(" Boop");
     }
     else if (i.toString().split("").includes("0")) {
-      arrayResult.push(" Beep");
+      soundResult.push(" Beep");
     }
     else {
-      arrayResult.push(i.toString())
+      soundResult.push(i.toString())
     }
   }
-  return arrayResult
+  return soundResult;
 };
-
 
 
 $(document).ready(function() {
