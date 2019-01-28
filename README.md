@@ -19,7 +19,7 @@
 ## Setup/Installation Requirements
 
 * _Clone Repository_
-* _github link https://github.com/ko1h/beep2019.git _
+* _Github link https://github.com/ko1h/beep2019.git _
 * _Open folder_
 * _Open index.html_
 * _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
