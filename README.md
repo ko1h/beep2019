@@ -14,15 +14,16 @@
 * _6 Input 3 returns with "I'm sorry, Dave. I'm afraid I can't do that."_
 * _7 if the number is great then 0 it will show the whole range of numbers._
 * _8 input 5 returns "Beep", "Boop", "I'm sorry, Dave. I'm afraid I can't do that.", 4 ,5._
-* _ https://ko1h.github.io/beep2019/front.html _
+* _https://ko1h.github.io/beep2019/front.html_
 
 ## Setup/Installation Requirements
 
 * _Clone Repository_
-* _Github link https://github.com/ko1h/beep2019.git _
+* _Github link_
 * _Open folder_
 * _Open index.html_
 * _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
+* _https://github.com/ko1h/beep2019.git_
 
 ## Known Bugs
 
