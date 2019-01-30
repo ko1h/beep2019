@@ -29,7 +29,6 @@
 * _Open folder_
 * _Open index.html_
 * _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
-* _https://github.com/ko1h/beep2019.git_
 
 ## Known Bugs
 
