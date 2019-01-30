@@ -6,6 +6,8 @@
 
 ## Description
 
+* _The purpose of this project is to have a user input a number and receive a string of numbers, starting from 0, through the number input, with the following exceptions:_
+
 * _Exception 1: Program replaces any number with a 0 with "Beep!"_
 * _Example input: 0_
 * _Expected output: Beep!_
