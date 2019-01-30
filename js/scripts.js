@@ -6,10 +6,10 @@ function robotSounds(inputNum) {
     if (i % 3 === 0 && i !== 0) {
       soundResult.push(" I'm sorry, Dave. I'm afraid I can't do that.");
     }
-    else if (i.toString().split("").includes("1")) {
+    else if (i.toString().includes("1")) {
       soundResult.push(" Boop");
     }
-    else if (i.toString().split("").includes("0")) {
+    else if (i.toString().includes("0")) {
       soundResult.push(" Beep");
     }
     else {

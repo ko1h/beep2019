@@ -1,25 +1,29 @@
 # _Beep Boop_
 
-#### _Turn numbers into Roman Numerals, 25 Jan 2019_
+#### _Turn numbers into Robot Sounds, 25 Jan 2019_
 
 #### By _** Kohichi Horii**_
 
 ## Description
 
-* _1 Program replaces 0 with Beep_
-* _2 input 0 returns beep_
-* _3 Program replace 1 with Boop_
-* _4 Input 1 returns Boop_
-* _5 Program replace any number that is divisible by 3  with "I'm sorry, Dave. I'm afraid I can't do that."_
-* _6 Input 3 returns with "I'm sorry, Dave. I'm afraid I can't do that."_
-* _7 if the number is great then 0 it will show the whole range of numbers._
-* _8 input 5 returns "Beep", "Boop", "I'm sorry, Dave. I'm afraid I can't do that.", 4 ,5._
+* _Exception 1: Program replaces any number with a 0 with "Beep!"_
+* _Example input: 0_
+* _Expected output: Beep!_
+* _Exception 2: Program replaces any number with a 1 with "Boop!"_
+* _Example Input: 1_
+* _Expected output for each: Beep!, Boop!_
+* _Exception 3: Program replaces any number divisible by 3 with "I'm sorry, Dave. I can't do that."._
+* _Example input: 3_
+* _Expected output: Beep!, Boop!, 2, "I'm sorry, Dave. I can't do that."_
+* _With all three exceptions in place:_
+* _Example input: 10_
+* _Expected output: Beep!, Boop!, 2, I'm sorry, Dave. I can't do that., 4, 5, I'm sorry, Dave. I can't do that., 7, 8, I'm sorry, Dave. I can't do that., Boop!_
 * _https://ko1h.github.io/beep2019/front.html_
 
 ## Setup/Installation Requirements
 
 * _Clone Repository_
-* _ github link https://github.com/ko1h/beep2019.git _
+* _Github link https://github.com/ko1h/beep2019.git_
 * _Open folder_
 * _Open index.html_
 * _use atom to open up repository *look at webpage by opening up repository then viewing through google chrome_
